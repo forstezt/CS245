@@ -1,0 +1,51 @@
+Chevrolet|Blazer|2001|Green|4500
+Chevrolet|Silverado|2006|Silver|13000
+Ford|F-150|2005|Green|15500
+Volkswagen|Jetta|1998|Black|1500
+Ford|F-250|2000|Blue|14500
+Toyota|Prius|2007|Yellow|6000
+Honda|Civic|1994|Red and White|2000
+Toyota|Camry|1994|Grey|650
+Ford|F-150|1996|Red|5500
+Honda|Civic|2001|Red|4000
+Ford|Taurus|1995|Tan|3000
+Chevrolet|Blazer|2003|Dark Blue|6000
+Honda|Civic|1995|Dark Blue|2000
+Honda|Civic|1995|Grey|2000
+Ford|Expedition|1999|Dark Red|4500
+Chevrolet|Corvette|2010|White and Red|36000
+Volkswagen|Beetle|1969|Daisy|900
+Chevrolet|Cavalier|1995|Reddish Orange|700
+Toyota|Camry|1992|Silver|600
+Honda|Accord|2000|Blue|4000
+Chevrolet|Blazer|2001|Green|4500
+Chevrolet|Silverado|2006|Silver|13000
+Ford|F-150|2005|Green|15500
+Volkswagen|Jetta|1998|Black|1500
+Ford|F-250|2000|Blue|14500
+Toyota|Prius|2007|Yellow|6000
+Honda|Civic|1994|Red and White|2000
+Toyota|Camry|1994|Grey|650
+Ford|F-150|1996|Red|5500
+Honda|Civic|2001|Red|4000
+Ford|Taurus|1995|Tan|3000
+Chevrolet|Blazer|2003|Dark Blue|6000
+Honda|Civic|1995|Dark Blue|2000
+Honda|Civic|1995|Grey|2000
+Ford|Expedition|1999|Dark Red|4500
+Chevrolet|Corvette|2010|White and Red|36000
+Volkswagen|Beetle|1969|Daisy|900
+Chevrolet|Cavalier|1995|Reddish Orange|700
+Toyota|Camry|1992|Silver|600
+Honda|Accord|2000|Blue|4000
+Ford|F-150|2005|Green|15500
+Volkswagen|Jetta|1998|Black|1500
+Ford|F-250|2000|Blue|14500
+Toyota|Prius|2007|Yellow|6000
+Honda|Civic|1994|Red and White|2000
+Toyota|Camry|1994|Grey|650
+Ford|F-150|1996|Red|5500
+Honda|Civic|2001|Red|4000
+Ford|Taurus|1995|Tan|3000
+Toyota|Camry|1992|Silver|600
+Honda|Civic|1995|Dark Blue|2000
